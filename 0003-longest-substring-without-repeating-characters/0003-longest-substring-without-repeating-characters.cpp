@@ -1,8 +1,8 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-       int left = 0, right = 0, max_length = 0;
-    unordered_map<char, int> mp; // Map to store the last index of each character
+         int left = 0, right = 0, max_length = 0;
+         unordered_map<char, int> mp; // Map to store the last index of each character
 
     while (right < s.size()) {
         // If the character is already in the map and is within the current window
