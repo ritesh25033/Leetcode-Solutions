@@ -1,6 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
+        if(s.size()==1)return 1;
          int left = 0, right = 0, max_length = 0;
          unordered_map<char, int> mp; // Map to store the last index of each character
 
@@ -19,7 +20,7 @@ public:
         // Expand the window
         right++;
     }
-
+    
     return max_length;
 
     }
