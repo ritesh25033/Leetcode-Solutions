@@ -27,6 +27,7 @@
 | [0125-valid-palindrome](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -46,6 +48,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -68,6 +71,7 @@
 | [0042-trapping-rain-water](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
