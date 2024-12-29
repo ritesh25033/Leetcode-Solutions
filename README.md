@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
