@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -80,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -111,6 +113,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
