@@ -32,6 +32,7 @@
 | [0273-integer-to-english-words](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -132,6 +133,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3427-special-array-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
