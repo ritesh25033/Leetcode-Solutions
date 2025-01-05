@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0724-find-pivot-index](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -133,6 +134,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3427-special-array-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
