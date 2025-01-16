@@ -20,6 +20,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -158,4 +159,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
