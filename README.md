@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -70,6 +72,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
