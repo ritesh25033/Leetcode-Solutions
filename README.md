@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -62,6 +64,7 @@
 | [0001-two-sum](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -76,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
