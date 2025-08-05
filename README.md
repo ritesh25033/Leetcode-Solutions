@@ -30,6 +30,7 @@
 | [2727-number-of-senior-citizens](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3427-special-array-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3427-special-array-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3790-fruits-into-baskets-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -191,4 +194,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
