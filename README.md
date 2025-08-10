@@ -70,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -83,6 +84,7 @@
 | [0049-group-anagrams](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -119,6 +121,7 @@
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1502-construct-k-palindrome-strings](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 ## Recursion
 |  |
 | ------- |
@@ -202,4 +206,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
