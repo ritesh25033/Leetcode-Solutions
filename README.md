@@ -24,6 +24,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2529-range-product-queries-of-powers](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2529-range-product-queries-of-powers](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3427-special-array-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -185,6 +187,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2529-range-product-queries-of-powers](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Brainteaser
 |  |
