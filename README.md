@@ -138,11 +138,13 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 ## Recursion
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Matrix
 |  |
 | ------- |
