@@ -14,6 +14,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -69,6 +70,7 @@
 | [0049-group-anagrams](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
@@ -85,6 +87,7 @@
 | [0049-group-anagrams](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -122,6 +125,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1502-construct-k-palindrome-strings](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -173,6 +177,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Dynamic Programming
 |  |
@@ -203,6 +208,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,4 +225,12 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
