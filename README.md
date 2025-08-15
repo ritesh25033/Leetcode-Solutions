@@ -139,12 +139,14 @@
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 ## Recursion
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Brainteaser
