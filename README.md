@@ -21,6 +21,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1917-maximum-average-pass-ratio](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2058-concatenation-of-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [1502-construct-k-palindrome-strings](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1917-maximum-average-pass-ratio](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1917-maximum-average-pass-ratio](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Dynamic Programming
 |  |
