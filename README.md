@@ -33,6 +33,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3427-special-array-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3427-special-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String
@@ -97,6 +98,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0326-power-of-three](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Recursion
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -238,4 +242,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
