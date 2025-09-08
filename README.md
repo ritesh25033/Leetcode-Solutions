@@ -150,6 +150,7 @@
 | [0326-power-of-three](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritesh25033/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Recursion
 |  |
